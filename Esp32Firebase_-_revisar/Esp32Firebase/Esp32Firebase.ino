@@ -4,7 +4,7 @@
 // TODO: dia 01 - Na leitura de Boolean, procurar o Locker Index no Array Ok
 // TODO: dia 01 - Nas outras leituras do Json, verificar as mudanças de Confirma operação.
 // TODO: dia 01 - Testar as 10 portas para fazer a placa no Fritzing Ok
-
+// TODO: dia 01 - Testar as 10 portas para fazer a placa no Fritzing Ok
 #include "FirebaseESP32.h"
 #include "ESP32TimerInterrupt.h"
 
